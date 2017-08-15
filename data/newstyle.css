@@ -1,0 +1,191 @@
+body {
+	background: #fff;
+	color: #404040;
+	font-size: 62.5%;
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 20px 80px 100px 40px;
+}
+
+h1 {
+	font-size: 240%;
+	line-height: 1.45em;
+	margin: 0;
+}
+
+p {
+	font-size: 140%;
+	line-height: 1.45em;
+	margin: 0;
+}
+
+p.large {
+	font-size: 180%;
+	line-height: 1.5em;
+	margin: 0;
+}
+
+p.small {
+	font-size: 130%;
+	line-height: 1.5em;
+	margin: 0;
+}
+
+p.tmargin {
+	margin-top: 1.2em;
+}
+
+p.bmargin {
+	margin-bottom: 1.2em;
+}
+
+a, a:active, a:visited {
+	color: #597da3;
+	text-decoration: underline;
+}
+
+a.special, a.special:active, a.special:visited {
+	color: #b90202;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #b90202;
+	text-decoration: underline;
+}
+
+div.lmargin {
+	margin-left: 50px;
+}
+
+div.block {
+	float: left;
+	margin-right: 5px;
+}
+
+table {
+	border-spacing: 0;
+}
+
+table td {
+	margin: 0;
+	padding: 0;
+}
+
+table.tmargin {
+	margin-top: 20px;
+}
+
+table.lmargin {
+	margin-left: 80px;
+}
+
+table.bmargin {
+	margin-bottom: 40px;
+}
+
+table.box {
+	background-color: #f5f5f5;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+
+table.list td {
+	border-bottom: solid 1px #eee;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+ul.menu {
+	list-style: none;
+	padding: 0;
+	margin: 10px 0 0 0;
+}
+
+ul.menu li {
+	float: left;
+	margin-right: 30px;
+}
+
+input.text {
+	font-size: 200%;
+	line-height: 1.5em;
+	padding: 5px 13px 5px 13px;
+	margin-left: -15px;
+	margin-bottom: 10px;
+	width: 480px;
+}
+
+input.but-send {
+	font-size: 200%;
+	padding: 5px 13px 5px 13px;
+	margin-top: 10px;
+	margin-left: -15px;
+}
+
+input.but-gift {
+	font-size: 200%;
+	text-align: left;
+	padding: 5px 13px 5px 16px;
+	margin-left: -18px;
+	margin-bottom: 10px;
+	width: 290px;
+}
+
+.txt-attention {
+	color: #b90202;
+	font-style: italic;
+}
+
+.txt-caption {
+	color: #999;
+	font-size: 140%;
+	line-height: 1.45em;
+	margin-left: 0.3em;
+}
+
+
+.txt-huge {
+	font-size: 720%;
+	margin: 0;
+}
+
+.txt-large {
+	font-size: 180%;
+	line-height: 1.5em;
+	margin: 0;
+}
+
+.txt-small {
+	font-size: 130%;
+	margin: 0;
+}
+
+.showa-hide-block-comment
+{
+    -moz-transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    writing-mode: tb-rl;
+    position: absolute; 
+    top: 185px; 
+    left: 465px;
+    cursor: pointer;
+    width: 100px;
+}
+
+.footer-links
+{
+    text-align: center;
+}
+
+.footer-links a
+{
+    font-size: 15px;
+}
+
+.subparts-links a
+{
+    font-size: 15px;
+}
